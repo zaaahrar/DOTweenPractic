@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class MoveTo : Transformation
+public class PoinMover : Transformation
 {
     private const int NumberLoop = -1;
 

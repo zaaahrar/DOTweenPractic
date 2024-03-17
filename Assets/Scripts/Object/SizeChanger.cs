@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class Resize : Transformation
+public class SizeChanger : Transformation
 {
     private const int NumberLoop = -1;
 

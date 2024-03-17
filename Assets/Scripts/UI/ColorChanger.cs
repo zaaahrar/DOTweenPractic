@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class ColorChange : Transformation
+public class ColorChanger : Transformation
 {
     private const int NumberLoop = -1;
 

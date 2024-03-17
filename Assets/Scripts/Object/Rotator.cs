@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class Twirl : Transformation
+public class Rotator : Transformation
 {
     private const int NumberLoop = -1;
 

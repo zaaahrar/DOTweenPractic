@@ -2,7 +2,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TextChange : Transformation
+public class TextChanger : Transformation
 {
     private const int NumberLoop = -1;
 
